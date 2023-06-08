@@ -1,0 +1,11 @@
+python3 instr_gen.py --instr_type ADD --src1 4 --src2 8 --dest 3 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type ADD --src1 1 --src2 2 --dest 2 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type ADD --src1 2 --src2 3 --dest 8 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type SLL --src1 11 --src2 12 --dest 10 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type SLL --src1 13 --src2 14 --dest 15 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type SLT --src1 16 --src2 17 --dest 18 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type XOR --src1 20 --src2 19 --dest 21 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type OR --src1 21 --src2 22 --dest 23 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type AND --src1 23 --src2 24 --dest 25 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type SUB --src1 27 --src2 28 --dest 29 --imem_file_path jnk.fill
+python3 instr_gen.py --instr_type SUB --src1 28 --src2 29 --dest 30 --imem_file_path jnk.fill
